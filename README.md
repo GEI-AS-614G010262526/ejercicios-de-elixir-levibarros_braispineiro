@@ -14,9 +14,8 @@ lo establecido por el profesor al comienzo del cuatrimestre.
 
 A continuación se han de anotar los datos de los integrantes del equipo:
 
-- Apellido1 Apellido2, Nombre : github username : udc username
-- Apellido1 Apellido2, Nombre : github username : udc username
-- Apellido1 Apellido2, Nombre : github username : udc username 
+- Barros García, Levi : Levichu51 : levi.barrosg
+- Piñeiro Lozano, Brais : bpineiro1 : brais.pineiro1 
 
 **N.B.:** Los ejercicios no recibirán ninguna corrección si los datos
 de los miembros del equipo no están anotados en este documento o el
