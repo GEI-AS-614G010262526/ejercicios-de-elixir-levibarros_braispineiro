@@ -127,6 +127,7 @@ defmodule Gestor.Pruebas do
     Gestor.alloc()
     Gestor.alloc()
     Gestor.alloc()
+    Gestor.alloc()
     IO.inspect(Gestor.avail())
     #Esperado: 0
 
